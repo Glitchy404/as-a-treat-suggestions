@@ -134,6 +134,10 @@ FOLX = [
     "Xbox players",
     "Playstation players",
     "PC players",
+    "Nintendo players",
+    "Linux Ricers",
+    "Sackboy"
+    "Robloxians"
     "Dani",
     "Mara",
     "Rail",
